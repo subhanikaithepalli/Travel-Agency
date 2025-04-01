@@ -32,7 +32,7 @@ export default function Footer() {
             <h4 className="text-white mb-3">Contact</h4>
             <p className="mb-2">
               <i className="fa fa-map-marker-alt me-3" />
-              123 Street, New York, USA
+              123 street, Mangalagiri, Andhra Pradesh, India
             </p>
             <p className="mb-2">
               <i className="fa fa-phone-alt me-3" />
@@ -132,12 +132,12 @@ export default function Footer() {
             <div className="col-md-6 text-center text-md-start mb-3 mb-md-0">
               ©{" "}
               <a className="border-bottom" href="#">
-                Your Site Name
+                Travel Agency
               </a>
               , All Right Reserved.
               Designed By{" "}
               <a className="border-bottom" href="https://github.com/ParasSalunke">
-                Paras Salunke
+               Kaithepalli Subhani
               </a>
             </div>
             <div className="col-md-6 text-center text-md-end">

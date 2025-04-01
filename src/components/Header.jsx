@@ -29,7 +29,7 @@ function Header() {
           >
             <small className="me-3 text-light">
               <i className="fa fa-map-marker-alt me-2" />
-              123 Street, New York, USA
+              123 street, Mangalagiri, Andhra Pradesh, India
             </small>
             <small className="me-3 text-light">
               <i className="fa fa-phone-alt me-2" />
