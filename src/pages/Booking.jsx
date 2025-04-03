@@ -105,16 +105,15 @@ function Booking() {
         <div className="booking p-5">
           <div className="row g-5 align-items-center">
             <div className="col-md-6 text-white">
-              <h6 className="text-white text-uppercase">Booking</h6>
+              <h6 className="text-white text-uppercase"></h6>
               <h1 className="text-white mb-4">Online Booking</h1>
               <p className="mb-4">
-                Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit.
-                Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit.
+              Easily book your trips online with our seamless reservation system. Enter your details, 
+              choose your destination, and confirm your trip in just a few clicks.
               </p>
               <p className="mb-4">
-                Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit.
-                Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit,
-                sed stet lorem sit clita duo justo magna dolore erat amet
+              Plan your journey hassle-free with secure and fast booking. Whether you're reserving a tour, hotel, or complete travel package,
+               our system ensures a smooth experience from start to finish.
               </p>
               <a className="btn btn-outline-light py-3 px-5 mt-2" href="">
                 Read More
