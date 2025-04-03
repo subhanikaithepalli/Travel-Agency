@@ -55,8 +55,8 @@ function Team() {
                 </a>
               </div>
               <div className="text-center p-4">
-                <h5 className="mb-0">Full Name</h5>
-                <small>Designation</small>
+                <h5 className="mb-0">John Smith – Senior Travel Consultant</h5>
+                <small>10+ years of experience in luxury and adventure travel.</small>
               </div>
             </div>
           </div>
@@ -80,8 +80,8 @@ function Team() {
                 </a>
               </div>
               <div className="text-center p-4">
-                <h5 className="mb-0">Full Name</h5>
-                <small>Designation</small>
+                <h5 className="mb-0">Olivia White – Cruise & Island Tour Guide</h5>
+                <small>Your go-to expert for exotic beach and cruise vacations.</small>
               </div>
             </div>
           </div>
@@ -105,8 +105,8 @@ function Team() {
                 </a>
               </div>
               <div className="text-center p-4">
-                <h5 className="mb-0">Full Name</h5>
-                <small>Designation</small>
+                <h5 className="mb-0">David Lee – Nature & Wildlife Guide</h5>
+                <small> Passionate about eco-tourism and sustainable travel experiences.</small>
               </div>
             </div>
           </div>
@@ -130,108 +130,8 @@ function Team() {
                 </a>
               </div>
               <div className="text-center p-4">
-                <h5 className="mb-0">Full Name</h5>
-                <small>Designation</small>
-              </div>
-            </div>
-          </div>
-          <div className="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-            <div className="team-item">
-              <div className="overflow-hidden">
-                <img className="img-fluid" src="assets/img/team-2.jpg" alt="" />
-              </div>
-              <div
-                className="position-relative d-flex justify-content-center"
-                style={{ marginTop: "-19px" }}
-              >
-                <a className="btn btn-square mx-1" href="">
-                  <i className="fab fa-facebook-f" />
-                </a>
-                <a className="btn btn-square mx-1" href="">
-                  <i className="fab fa-twitter" />
-                </a>
-                <a className="btn btn-square mx-1" href="">
-                  <i className="fab fa-instagram" />
-                </a>
-              </div>
-              <div className="text-center p-4">
-                <h5 className="mb-0">Full Name</h5>
-                <small>Designation</small>
-              </div>
-            </div>
-          </div>
-          <div className="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-            <div className="team-item">
-              <div className="overflow-hidden">
-                <img className="img-fluid" src="assets/img/team-3.jpg" alt="" />
-              </div>
-              <div
-                className="position-relative d-flex justify-content-center"
-                style={{ marginTop: "-19px" }}
-              >
-                <a className="btn btn-square mx-1" href="">
-                  <i className="fab fa-facebook-f" />
-                </a>
-                <a className="btn btn-square mx-1" href="">
-                  <i className="fab fa-twitter" />
-                </a>
-                <a className="btn btn-square mx-1" href="">
-                  <i className="fab fa-instagram" />
-                </a>
-              </div>
-              <div className="text-center p-4">
-                <h5 className="mb-0">Full Name</h5>
-                <small>Designation</small>
-              </div>
-            </div>
-          </div>
-          <div className="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
-            <div className="team-item">
-              <div className="overflow-hidden">
-                <img className="img-fluid" src="assets/img/team-4.jpg" alt="" />
-              </div>
-              <div
-                className="position-relative d-flex justify-content-center"
-                style={{ marginTop: "-19px" }}
-              >
-                <a className="btn btn-square mx-1" href="">
-                  <i className="fab fa-facebook-f" />
-                </a>
-                <a className="btn btn-square mx-1" href="">
-                  <i className="fab fa-twitter" />
-                </a>
-                <a className="btn btn-square mx-1" href="">
-                  <i className="fab fa-instagram" />
-                </a>
-              </div>
-              <div className="text-center p-4">
-                <h5 className="mb-0">Full Name</h5>
-                <small>Designation</small>
-              </div>
-            </div>
-          </div>
-          <div className="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
-            <div className="team-item">
-              <div className="overflow-hidden">
-                <img className="img-fluid" src="assets/img/team-1.jpg" alt="" />
-              </div>
-              <div
-                className="position-relative d-flex justify-content-center"
-                style={{ marginTop: "-19px" }}
-              >
-                <a className="btn btn-square mx-1" href="">
-                  <i className="fab fa-facebook-f" />
-                </a>
-                <a className="btn btn-square mx-1" href="">
-                  <i className="fab fa-twitter" />
-                </a>
-                <a className="btn btn-square mx-1" href="">
-                  <i className="fab fa-instagram" />
-                </a>
-              </div>
-              <div className="text-center p-4">
-                <h5 className="mb-0">Full Name</h5>
-                <small>Designation</small>
+                <h5 className="mb-0">Sarah Wilson – Family & Group Travel Planner</h5>
+                <small> Helping families and groups create perfect vacation experiences.</small>
               </div>
             </div>
           </div>

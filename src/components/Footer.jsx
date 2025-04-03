@@ -106,7 +106,7 @@ export default function Footer() {
           </div>
           <div className="col-lg-3 col-md-6">
             <h4 className="text-white mb-3">Newsletter</h4>
-            <p>Dolor amet sit justo amet elitr clita ipsum elitr est.</p>
+            <p>Stay updated with the latest travel deals, exclusive offers, and destination tips! Sign up now and never miss an adventure.</p>
             <div
               className="position-relative mx-auto"
               style={{ maxWidth: 400 }}

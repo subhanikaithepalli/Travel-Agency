@@ -40,8 +40,8 @@ function Contact() {
           <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
             <h5>Get In Touch</h5>
             <p className="mb-4">
-              Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-              diam amet diam et eos
+            Feel free to reach out to us for any travel inquiries, bookings, or 
+            assistance. We're here to help you plan your perfect trip!
             </p>
             <div className="d-flex align-items-center mb-4">
               <div

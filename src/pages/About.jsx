@@ -57,13 +57,12 @@ function About() {
               Welcome to <span className="text-primary">Tourist</span>
             </h1>
             <p className="mb-4">
-              Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-              diam amet diam et eos. Clita erat ipsum et lorem et sit.
+            At Tourist, we believe that every journey should be seamless, exciting, and filled with unforgettable experiences. Whether you're looking 
+            for a luxurious getaway, an adventurous escape, or a cultural exploration, we are here to make your travel dreams come true.
             </p>
             <p className="mb-4">
-              Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-              diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet
-              lorem sit clita duo justo magna dolore erat amet
+            With a passion for excellence and years of expertise in the travel industry, 
+            we ensure that every aspect of your trip is carefully curated for comfort, convenience, and enjoyment.
             </p>
             <div className="row gy-2 gx-4 mb-4">
               <div className="col-sm-6">
@@ -112,118 +111,7 @@ function About() {
     </div>
     {/* About End */}
     {/* Team Start */}
-    <div className="container-xxl py-5">
-      <div className="container">
-        <div className="text-center wow fadeInUp" data-wow-delay="0.1s">
-          <h6 className="section-title bg-white text-center text-primary px-3">
-            Travel Guide
-          </h6>
-          <h1 className="mb-5">Meet Our Guide</h1>
-        </div>
-        <div className="row g-4">
-          <div className="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-            <div className="team-item">
-              <div className="overflow-hidden">
-                <img className="img-fluid" src="assets/img/team-1.jpg" alt="" />
-              </div>
-              <div
-                className="position-relative d-flex justify-content-center"
-                style={{ marginTop: "-19px" }}
-              >
-                <a className="btn btn-square mx-1" href="">
-                  <i className="fab fa-facebook-f" />
-                </a>
-                <a className="btn btn-square mx-1" href="">
-                  <i className="fab fa-twitter" />
-                </a>
-                <a className="btn btn-square mx-1" href="">
-                  <i className="fab fa-instagram" />
-                </a>
-              </div>
-              <div className="text-center p-4">
-                <h5 className="mb-0">Full Name</h5>
-                <small>Designation</small>
-              </div>
-            </div>
-          </div>
-          <div className="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-            <div className="team-item">
-              <div className="overflow-hidden">
-                <img className="img-fluid" src="assets/img/team-2.jpg" alt="" />
-              </div>
-              <div
-                className="position-relative d-flex justify-content-center"
-                style={{ marginTop: "-19px" }}
-              >
-                <a className="btn btn-square mx-1" href="">
-                  <i className="fab fa-facebook-f" />
-                </a>
-                <a className="btn btn-square mx-1" href="">
-                  <i className="fab fa-twitter" />
-                </a>
-                <a className="btn btn-square mx-1" href="">
-                  <i className="fab fa-instagram" />
-                </a>
-              </div>
-              <div className="text-center p-4">
-                <h5 className="mb-0">Full Name</h5>
-                <small>Designation</small>
-              </div>
-            </div>
-          </div>
-          <div className="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
-            <div className="team-item">
-              <div className="overflow-hidden">
-                <img className="img-fluid" src="assets/img/team-3.jpg" alt="" />
-              </div>
-              <div
-                className="position-relative d-flex justify-content-center"
-                style={{ marginTop: "-19px" }}
-              >
-                <a className="btn btn-square mx-1" href="">
-                  <i className="fab fa-facebook-f" />
-                </a>
-                <a className="btn btn-square mx-1" href="">
-                  <i className="fab fa-twitter" />
-                </a>
-                <a className="btn btn-square mx-1" href="">
-                  <i className="fab fa-instagram" />
-                </a>
-              </div>
-              <div className="text-center p-4">
-                <h5 className="mb-0">Full Name</h5>
-                <small>Designation</small>
-              </div>
-            </div>
-          </div>
-          <div className="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
-            <div className="team-item">
-              <div className="overflow-hidden">
-                <img className="img-fluid" src="assets/img/team-4.jpg" alt="" />
-              </div>
-              <div
-                className="position-relative d-flex justify-content-center"
-                style={{ marginTop: "-19px" }}
-              >
-                <a className="btn btn-square mx-1" href="">
-                  <i className="fab fa-facebook-f" />
-                </a>
-                <a className="btn btn-square mx-1" href="">
-                  <i className="fab fa-twitter" />
-                </a>
-                <a className="btn btn-square mx-1" href="">
-                  <i className="fab fa-instagram" />
-                </a>
-              </div>
-              <div className="text-center p-4">
-                <h5 className="mb-0">Full Name</h5>
-                <small>Designation</small>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
+    
     {/* Team End */}
     </div>
   )

@@ -43,8 +43,9 @@ function Services() {
                 <i className="fa fa-3x fa-globe text-primary mb-4" />
                 <h5>WorldWide Tours</h5>
                 <p>
-                  Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita
-                  amet diam
+                Explore the world with our expertly crafted tours. From breathtaking landscapes to vibrant
+                 cityscapes, we offer tailor-made travel experiences that cater to your desires. Discover hidden gems, 
+                cultural treasures, and unforgettable adventures with our exclusive worldwide tour packages.
                 </p>
               </div>
             </div>
@@ -55,8 +56,8 @@ function Services() {
                 <i className="fa fa-3x fa-hotel text-primary mb-4" />
                 <h5>Hotel Reservation</h5>
                 <p>
-                  Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita
-                  amet diam
+                Book the perfect stay with ease. We offer a wide selection of hotels, from budget-friendly accommodations to luxury resorts, ensuring comfort and convenience wherever you go. Enjoy 
+                exclusive deals, seamless bookings, and personalized recommendations for your trip.
                 </p>
               </div>
             </div>
@@ -67,8 +68,8 @@ function Services() {
                 <i className="fa fa-3x fa-user text-primary mb-4" />
                 <h5>Travel Guides</h5>
                 <p>
-                  Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita
-                  amet diam
+                Navigate new destinations with confidence. Our detailed travel guides provide essential tips, must-visit attractions, local cuisine recommendations,
+                 and cultural insights to enhance your journey. Get the latest updates and insider knowledge for a stress-free adventure.
                 </p>
               </div>
             </div>
@@ -79,8 +80,8 @@ function Services() {
                 <i className="fa fa-3x fa-cog text-primary mb-4" />
                 <h5>Event Management</h5>
                 <p>
-                  Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita
-                  amet diam
+                Turn your dream events into reality. Whether it's a corporate retreat, destination wedding, or group getaway, we handle all
+                 the logistics, from venue selection to itinerary planning. Enjoy a seamless experience with our professional event management services.
                 </p>
               </div>
             </div>

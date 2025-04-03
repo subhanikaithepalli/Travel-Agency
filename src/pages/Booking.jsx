@@ -50,8 +50,8 @@ function Booking() {
               <hr className="w-25 mx-auto bg-primary mb-1" />
               <hr className="w-50 mx-auto bg-primary mt-0" />
               <p className="mb-0">
-                Tempor erat elitr rebum clita dolor diam ipsum sit diam amet
-                diam eos erat ipsum et lorem et sit sed stet lorem sit
+              Select from our wide range of stunning travel destinations. Whether 
+              it's a tropical island, a cultural escape, or an adventure-packed getaway, we've got you covered!
               </p>
             </div>
           </div>
@@ -70,8 +70,8 @@ function Booking() {
               <hr className="w-25 mx-auto bg-primary mb-1" />
               <hr className="w-50 mx-auto bg-primary mt-0" />
               <p className="mb-0">
-                Tempor erat elitr rebum clita dolor diam ipsum sit diam amet
-                diam eos erat ipsum et lorem et sit sed stet lorem sit
+              Enjoy a seamless booking experience with our secure online 
+              payment system. Choose your preferred payment method and get instant confirmation.
               </p>
             </div>
           </div>
@@ -90,8 +90,8 @@ function Booking() {
               <hr className="w-25 mx-auto bg-primary mb-1" />
               <hr className="w-50 mx-auto bg-primary mt-0" />
               <p className="mb-0">
-                Tempor erat elitr rebum clita dolor diam ipsum sit diam amet
-                diam eos erat ipsum et lorem et sit sed stet lorem sit
+              Pack your bags and get ready for an unforgettable journey! 
+              We handle the details so you can focus on making memories.
               </p>
             </div>
           </div>
